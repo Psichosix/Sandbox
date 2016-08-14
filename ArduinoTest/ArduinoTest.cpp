@@ -10,4 +10,5 @@ void loop() {
 	Serial.print("Arduino Hello ");
 	Serial.println(n++);
 	delay(200);
+	Serial.println("Mike says hi too   or 2");
 }
